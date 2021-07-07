@@ -1,0 +1,12 @@
+{
+  "name": "jcform",
+  "version": "1.0.0",
+  "description": "Relleno de formularios automatico.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Francisco Cruz Corro",
+  "license": "MIT"
+}
