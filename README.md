@@ -14,4 +14,6 @@ donde:
 
 ***
 objeto => Objeto JSON [ { clave:valor } ],
+
+***
 prefixID => Prefijo del id de los respectivos <input> y <select> que debe coincidir con la clave en el objeto JSON
