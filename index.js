@@ -30,3 +30,5 @@ let rellenar = (objeto, prefixID = '') => {
         }
     }
 }
+
+export default rellenar;
